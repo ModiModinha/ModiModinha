@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 ## Sobre mim
 
 - 🤔 Aprendendo sobre Desenvolvimento de Sistemas e Design.
