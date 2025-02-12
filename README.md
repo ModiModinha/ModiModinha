@@ -39,8 +39,8 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Meu Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/luiz-vieira-13aa89231)](www.linkedin.com/in/luiz-vieira-13aa89231)
-[![Gmail Badge](https://img.shields.io/badge/-Meu Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizpiresvieira@gmail.com)](mailto:luizpiresvieira@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-MeuLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/luiz-vieira-13aa89231)](www.linkedin.com/in/luiz-vieira-13aa89231)
+[![Gmail Badge](https://img.shields.io/badge/-MeuEmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizpiresvieira@gmail.com)](mailto:luizpiresvieira@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/ModiModinha)<!--
 
 
