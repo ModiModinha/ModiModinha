@@ -6,6 +6,10 @@
 - 🎓 Estudando {Design} na {Unesc} e estudando {Desenvolvimento de Sistemas} no {Senai}
 - 💼 Atualmente atuando como estágiario de design na InnCash.
 - 🌱 Aprendendo mais sobre {Game Maker e Godot}.
+- 💾 Link abaixo para o meu portfolio
+
+
+<img width="75" src="https://i.imgur.com/kstGVCM.png">
 
 ## Minhas Skills
 
