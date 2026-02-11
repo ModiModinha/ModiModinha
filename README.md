@@ -4,7 +4,7 @@
 
 - 🤔 Aprendendo sobre Desenvolvimento de Sistemas e Design.
 - 🎓 Estudando {Design} na {Unesc} e estudando {Desenvolvimento de Sistemas} no {Senai}
-- 💼 Procurando Emprego como Dev (Estagio ou Junior).
+- 💼 Atualmente atuando como estágiario de design na InnCash.
 - 🌱 Aprendendo mais sobre {Game Maker e Godot}.
 
 ## Minhas Skills
